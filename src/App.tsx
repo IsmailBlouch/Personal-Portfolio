@@ -114,7 +114,7 @@ export function App() {
           }} className="text-lg text-gray-300 max-w-4xl mx-auto leading-relaxed">
               Full Stack Developer with 3+ years of experience specializing in
               Microsoft Technologies. Strong foundation in both front-end and
-              back-end development with expertise in JavaScript, TypeScript, C#,
+              back-end development with expertise in JavaScript, TypeScript, C#,React,
               Angular, ASP.NET Core, and SQL. Currently working on Stripe
               Payment Gateway and Apple InApp Purchase integration in
               medical-based applications.
